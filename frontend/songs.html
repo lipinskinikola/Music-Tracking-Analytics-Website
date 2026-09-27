@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Songs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="artists.html">Artists</a>
+    <a href="albums.html">Albums</a>
+    <a href="songs.html">Songs</a>
+</nav>
+
+<h1>Songs</h1>
+
+
+<input id="song_name">
+<input id="song_year">
+<input id="song_album_id">
+<tbody id="songTable"></tbody>
+<button onclick="createSong()">Create</button>
+
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Song Name</th>
+            <th>Year</th>
+            <th>Album ID</th>
+        </tr>
+    </thead>
+    <tbody id="songTable"></tbody>
+</table>
+
+<script src="apps.js"></script>
+
+</body>
+</html>
