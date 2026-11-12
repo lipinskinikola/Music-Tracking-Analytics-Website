@@ -46,3 +46,7 @@ Developed as part of a university project to apply practical web development ski
 
 
 Developed as a university project by Nikola Lipinski. 
+
+Screenshot of Home Page
+<img width="647" height="384" alt="Home Page" src="https://github.com/user-attachments/assets/d7b85dd1-b210-4de4-b01c-a85eec3ff285" />
+
